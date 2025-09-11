@@ -1,20 +1,53 @@
-<h1>Aspiring Java Developer</h1>
-<p>Recent Graduate from Software Development Program</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/feed/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RosslerGKBoquiren&show_icons=true&locale=en" alt="RosslerGKBoquiren" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RosslerGKBoquiren" alt="RosslerGKBoquiren" /></a></p>
+# Hi there, I'm Ross 👋
+
+I'm a Software Development graduate and aspiring Quality Assurance engineer passionate about delivering bug-free software through test automation and continuous learning in AI and emerging tech.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Diploma in Software Development
+- 💼 Currently exploring QA Automation & AI integration roles
+- ⚙️ Entry level experience with Java, Selenium, SQL, API & Web UI testing
+- 🧩 Enthusiast of test automation frameworks and CI/CD pipelines
+- 🌱 Lifelong learner actively studying cutting-edge QA tools & AI tech  
+
+---
+
+## 🔧 Skills & Tools
+
+| Web Development        | Backend & Database        | Multi-Platform Development  | Development Practices & Core Competencies |
+|------------------------|---------------------------|-----------------------------|-------------------------------------------|
+| HTML, CSS, Bootstrap   | Python, SQL, PHP, ASP.NET | C# (.NET), Java, VB.NET     | Object-Oriented Design                    |
+| JavaScript             |                           |                             | Code Analysis                             |
+|                        |                           |                             | Feature Design & Proposal                 |
+|                        |                           |                             | Code Readability                          |
+|                        |                           |                             | User Experience Focus                     |
+|                        |                           |                             | Cross-functional Communication            |
+
+
+---
+
+## 📂 Highlight Projects
+
+- **Test Automation Framework** — Built a robust Selenium-Java framework with Data-Driven and Page Object Model patterns.
+- **API Testing Suite** — Created REST API tests using Postman and integrated reporting using Jenkins pipelines.
+- **QA Study Planner** — Designed a 6-month structured learning plan for mastering automated testing fundamentals.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgkboquiren/)    
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RosslerGKBoquiren)
+
+---
+
+## ⚡ Fun fact
+
+When not testing software, I enjoy railfanning, collecting vintage watches, and exploring new gaming titles on my PS5!
+
+---
+
+Thanks for stopping by! Feel free to connect and check out my repositories ❤️
+
