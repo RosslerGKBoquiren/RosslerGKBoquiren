@@ -30,11 +30,13 @@ I'm a Software Development graduate and aspiring Quality Assurance engineer pass
 
 ---
 
-## 📂 Highlight Projects
+## 📂 Highlight Learning & Key Activities
 
-- **Test Automation Framework** — Built a robust Selenium-Java framework with Data-Driven and Page Object Model patterns.
-- **API Testing Suite** — Created REST API tests using Postman and integrated reporting using Jenkins pipelines.
-- **QA Study Planner** — Designed a 6-month structured learning plan for mastering automated testing fundamentals.
+📚 Building strong foundations in Java programming and object-oriented design.
+🧪 Developing skills in manual and automated testing methodologies.
+🛠️ Creating test cases and exploring test automation tools as part of ongoing QA training.
+🔍 Studying API testing techniques and integrating learning with Postman and Jenkins.
+🗂️ Planning and organizing a structured 6-month study roadmap to master Quality Assurance fundamentals.
 
 ---
 
