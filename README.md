@@ -1,12 +1,12 @@
 # Hi there, I'm Ross 👋
 
-I'm a Software Development graduate and aspiring Quality Assurance engineer passionate about delivering bug-free software through test automation and continuous learning in AI and emerging tech.
+I'm a Web Development graduate and aspiring Quality Assurance engineer passionate about delivering bug-free software through test automation and continuous learning in AI and emerging tech.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Diploma in Software Development
+- 🎓 Diploma in Web Development
 - 💼 Currently exploring QA Automation & AI integration roles
 - ⚙️ Entry level experience with Java, Selenium, SQL, API & Web UI testing
 - 🧩 Enthusiast of test automation frameworks and CI/CD pipelines
