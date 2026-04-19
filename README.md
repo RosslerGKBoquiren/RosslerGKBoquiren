@@ -1,16 +1,16 @@
 # Hi there, I'm Ross 👋
 
-I'm a Web Development graduate and aspiring Quality Assurance engineer passionate about delivering bug-free software through test automation and continuous learning in AI and emerging tech.
+I'm a Web Development graduate and aspiring to become a workflow automation specialist focused on building secure, high-integrity enterprise solutions. I would like to bridge the gap between technical logic and business governance to ensure software is not just functional, but compliant and resilient. 
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Diploma in Web Development
-- 💼 Currently exploring QA Automation & AI integration roles
-- ⚙️ Entry level experience with Java, Selenium, SQL, API & Web UI testing
-- 🧩 Enthusiast of test automation frameworks and CI/CD pipelines
-- 🌱 Lifelong learner actively studying cutting-edge QA tools & AI tech  
+- 💼 Aspiring GRC Automation specialist focusing on enterprise workflow integrity
+- ⚙️ Technical Core: JavaScript, Java, SQL, and API integration
+- 🧩 Focus: Automating business rules, designing audit-ready logic, and implementing secure access controls
+- 🌱 Current pursuit: Mastering the intersection of AI-driven automation and regulatory compliance
 
 ---
 
@@ -27,16 +27,6 @@ I'm a Web Development graduate and aspiring Quality Assurance engineer passionat
 
 ### Development Practices & Core Competencies  
 🧱 Object-Oriented Design | 🔍 Code Analysis | 📝 Feature Design & Proposal | 📖 Code Readability | 🎯 User Experience Focus | 🔄 Cross-functional Communication
-
----
-
-## 📂 Highlight Learning & Key Activities
-
-📚 Building strong foundations in Java programming and object-oriented design.
-🧪 Developing skills in manual and automated testing methodologies.
-🛠️ Creating test cases and exploring test automation tools as part of ongoing QA training.
-🔍 Studying API testing techniques and integrating learning with Postman and Jenkins.
-🗂️ Planning and organizing a structured 6-month study roadmap to master Quality Assurance fundamentals.
 
 ---
 
