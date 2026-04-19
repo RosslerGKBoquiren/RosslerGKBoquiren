@@ -9,8 +9,11 @@ I am a Web Development graduate focused on building secure, high-integrity softw
 ## 🚀 About Me
 
 🎓 Graduate: Diploma in Web Development
+
 📚 Studying: Advanced JavaScript and Java for Enterprise Applications
+
 🧪 Exploring: AI-assisted testing and QA automation frameworks
+
 ---
 
 ## 🔧 Technical Toolkit
