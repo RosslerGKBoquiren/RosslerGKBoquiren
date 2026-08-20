@@ -18,7 +18,7 @@ I am a Web Development graduate focused on building secure, high-integrity softw
 
 ## 🔧 Technical Toolkit
 
-Languages: JavaScript (ES6+), Java, SQL
+Languages: JavaScript (ES6+), Java, SQL, Python
 
 Front-End: HTML5, CSS3, Bootstrap
 
