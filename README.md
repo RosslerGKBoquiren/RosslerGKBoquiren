@@ -8,7 +8,7 @@ I am a Web Development graduate focused on building secure, high-integrity softw
 
 ## 🚀 About Me
 
-🎓 Graduate: Diploma in Web Development
+🎓 Graduate: Diploma in Software Development
 
 📚 Studying: Advanced JavaScript and Java for Enterprise Applications
 
